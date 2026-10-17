@@ -1,5 +1,11 @@
 # LumenCode (Swift)
 
+> **Development has moved to [macsplit/lumencode](https://github.com/macsplit/lumencode).**
+> The native macOS application is now in [`apps/macos`](https://github.com/macsplit/lumencode/tree/main/apps/macos), alongside the Qt application and their shared analysis engine.
+> Use the [monorepo build instructions](https://github.com/macsplit/lumencode#native-macos-application-and-swift-cli) for future development.
+> This repository is archived to preserve its history, tags and releases. The last pre-migration source revision is `7523df005031c67c1d494699c57dc03a06283407`.
+
+
 A macOS tool for source code exploration.
 
 *A SwiftUI macOS interface for the original [`lumencode`](https://github.com/macsplit/lumencode) C++ analysis engine, with a shared Swift core and CLI harness.*
